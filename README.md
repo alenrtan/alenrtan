@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [alenrtan.github.io](alenrtan.github.io)
 
-- 📫 How to reach me **alenraytan@gmail.com**
+- 📫 How to reach me: **alenraytan@gmail.com**
 
-- 📄 Know about my experiences [https://alenrtan.github.io/pages/contact.html](https://alenrtan.github.io/pages/contact.html)
+- 📄 Know about my experiences: [https://alenrtan.github.io/pages/contact.html](https://alenrtan.github.io/pages/contact.html)
 
-- ⚡ Fun fact **I absolutely love planes!**
+- ⚡ Fun fact: **I absolutely love planes!**
 
 <p align="left">
 </p>
