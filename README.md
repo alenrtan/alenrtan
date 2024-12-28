@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alen Ray</h1>
-<h3 align="center">Currently a computer science student at New Mexico State University. Minoring in Computer Systems. I am strongly interested in Information Technology (IT) and front-end development.</h3>
+<h3 align="center">A Computer Science (B.A.) graduate with a minor in Computer Systems. I am strongly interested in Information Technology (IT) and front-end development.</h3>
 
-- 🔭 I’m currently working on [Grub Goals](https://github.com/SarahDiazZ/GrubGoals)
+- 🔭 I’m currently working on [Alto](https://github.com/alenrtan/alto)
 
-- 🌱 I’m currently learning **React + Vite, Tailwind**
+- 🌱 I’m currently learning **React + Vite**
 
 - 👨‍💻 All of my projects are available at [alenrtan.github.io](alenrtan.github.io)
 
